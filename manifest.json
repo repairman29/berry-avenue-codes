@@ -1,0 +1,41 @@
+{
+    "name": "Berry Avenue Idle Codes",
+    "short_name": "BA Codes",
+    "description": "Quickly find and copy Berry Avenue idle animation codes for your avatar",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f0f2f5",
+    "theme_color": "#007aff",
+    "orientation": "portrait-primary",
+    "scope": "./",
+    "lang": "en",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["utilities", "games"],
+    "screenshots": [
+        {
+            "src": "screenshot-1.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "screenshot-2.png",
+            "sizes": "390x844",
+            "type": "image/png",
+            "form_factor": "narrow"
+        }
+    ]
+} 
